@@ -1,8 +1,11 @@
-# Python en el mundo real
+=======================
+Python en el mundo real
+=======================
 
----
+----
 
-# Los disertantes
+Los disertantes
+---------------
 
 Juan B Cabral
 
@@ -19,9 +22,10 @@ Matias Herranz
 - Trabaja en Machinalis
 
 
----
+----
 
 Los 2:
+------
 
 - Ambos trabajan con Python  en su día a día.
 - Ambos hicieron su tesis de grado en Python.
@@ -31,11 +35,11 @@ Los 2:
 - Toman wiskey.
 - Son amigos.
 
-![Alt text](img/jbc_herranz.jpg)
 
----
+----
 
-# ¿De qué va la charla?
+¿De qué va la charla?
+---------------------
 
 - Un ejemplo de su sintaxis en casos didacticos.
 - Programas hechos en Python.
@@ -44,9 +48,13 @@ Los 2:
 
 Y vamos a hablar de plata todo el tiempo!
 
----
+.. image:: img/python_logo.png
+    :align: center
 
-# Y Python...
+----
+
+Y Python...
+-----------
 
 - Python es un lenguaje de programación interpretado cuya filosofía hace
   hincapié en una sintaxis muy limpia y que favorezca un código legible.
