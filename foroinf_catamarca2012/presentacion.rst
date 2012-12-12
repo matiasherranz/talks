@@ -61,6 +61,7 @@ Y Python...
 - Lo crea Gido Van Rossum en 1991.
 - Multiparadigma.
 - Comunidad MUY activa y con... una particularidad en el nivel técnico.
+- Multiples implementaciones: Jython, IronPython, PyPy, CPython...
 
 y... es simple (según las estadísticas todo es 1/3 de Java y C#)
 
