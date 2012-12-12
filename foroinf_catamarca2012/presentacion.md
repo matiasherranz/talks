@@ -1,9 +1,5 @@
 # Python en el mundo real
 
-![Alt text](img/python_logo.svg)
-
-Juan B. Cabral - Matias Herranz
-
 ---
 
 # Los disertantes
