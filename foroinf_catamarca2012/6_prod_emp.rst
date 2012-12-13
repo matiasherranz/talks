@@ -1,4 +1,4 @@
-Productos famosos
+Productos Famosos
 -----------------
 
 .. image:: img/productos.png
@@ -12,7 +12,7 @@ Las empresas
 
 Este es el listado de empresas que apuestan FUERTE por Python.
 
-Mas casos: http://www.python.org/about/success/
+Más casos: http://www.python.org/about/success/
 
 .. image:: img/empresas.png
     :scale: 25 %

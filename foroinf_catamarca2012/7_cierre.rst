@@ -8,7 +8,7 @@ Estos slides:
 
 Contactos:
 
-- matiasheranz@gmail.com - @scoobygalletas
+- matiasheranz@gmail.com - @matiasherranz
 - jbc.develop@gmail.com - @juanbcabral
 
 ----
