@@ -1,0 +1,38 @@
+Django
+------
+
+.. image:: img/django-logo-small.jpeg
+    :align: center
+
+- Framework web con más de 7 años de uso, hecho en Python
+- Miles y miles de apps para Django, listas para usar (django-registration, pinax, django-bootstrap-toolkit, etc.)
+- Muy amplia difusión y uso, muy mantenido, amplia comunidad
+- MVC (model, view, controller)
+- https://www.djangoproject.com
+
+----
+
+Django (Ejemplo: Models)
+---------------
+
+.. code-block:: python
+
+    # -*- coding: utf-8 -*-
+    import datetime
+    from django.db import models
+    from django.contrib.auth.models import User
+
+
+    class Post(models.Model):
+        """
+        Model to represent the blog posts.
+        """
+        author = models.ForeignKey(User, blank=True, null=True)
+        message = models.TextField(max_length=140)
+        date_posted = models.DateTimeField(default=datetime.datetime.now)
+
+        def __unicode__(self):
+            return "Post from: %s, Txt: %s" % (self.author.username,
+                                               self.message,)
+
+----
