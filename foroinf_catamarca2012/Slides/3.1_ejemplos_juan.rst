@@ -106,9 +106,7 @@ Beautiful Soup
 Beautiful Soup (Ejemplo, HTML)
 ------------------------
 
-.. smallerCode::
-
-    .. code-block:: python
+.. code-block:: python
 
     html = """
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"

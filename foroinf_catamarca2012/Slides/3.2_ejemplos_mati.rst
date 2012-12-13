@@ -15,9 +15,10 @@ Django
 
 ----
 
-Django: Projecto de ejemplo: un Microblog
----------------
+Pequeño ejemplo Django
+----------------------
 
+Un Microblog
 
 - Usando django-commanline-extensions, django-bootstrap-toolkit, django
 - Muy poco código, una app 100% funcional
@@ -120,3 +121,34 @@ Django (Ejemplo: Templates)
             </div>
         {% endfor %}
     {% endblock %}
+
+----
+
+Ninja-IDE
+---------
+
+.. image:: img/ninja-logo.png
+    :align: center
+
+- Project Managment
+- Amazing Code Locator
+- Errors and PEP8 Finder
+- Run Project and Files
+- Highly extensible with Pluging
+
+----
+
+Ninja-IDE: screenshots
+----------------------
+
+.. image:: img/ScreenShot-ninja-1.png
+    :align: center
+
+----
+
+Ninja-IDE: screenshots
+----------------------
+
+.. image:: img/ScreenShot-ninja-2.png
+    :align: center
+        
