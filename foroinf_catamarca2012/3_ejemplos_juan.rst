@@ -103,24 +103,20 @@ Beautiful Soup
 
 ----
 
-Beautiful Soup (Ejemplo)
+Beautiful Soup (Ejemplo, HTML)
 ------------------------
 
-.. code-block:: python
+.. smallerCode::
 
-    import re
-    import bs4
+    .. code-block:: python
 
     html = """
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
     <head>
         <title>titulo</title>
-        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     </head>
-
     <body>
         <p>este es un codigo feo<b>
         <a href="http://google.com">to google</a>
@@ -135,10 +131,19 @@ Beautiful Soup (Ejemplo)
         <ul class="elflaco">
             <li>something</li>
         </ul>
-
     </body>
     </html>
     """
+
+----
+
+Beautiful Soup (Ejemplo, Python)
+--------------------------------
+
+.. code-block:: python
+    
+    import re
+    import bs4
 
     soup = bs4.BeautifulSoup(html)
     print soup.find_all("a")

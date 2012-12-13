@@ -1,11 +1,11 @@
 Comunidad
 ---------
 
-En los siguientes slides se vera:
+En los siguientes slides se verá:
 
 - La comunidad internacional de Python
-- Grandes eventos internacionales.
-- Comunidad Local.
+- Grandes eventos internacionales
+- Comunidad Local
 - Eventos locales
 
 ----
@@ -13,10 +13,10 @@ En los siguientes slides se vera:
 Comunidad Internacional
 -----------------------
 
-- Dada la expresividad del lenguaje muchos hackers y cientificos son miembros
-  activos de esta comunidad.
-- Se nuclea a traves de la Python Software Fundation (hay dos miembros de PyAr)
-- Se organizan cerca de 200 conf anuales de python en todo el mundo.
+- Dada la expresividad del lenguaje, muchos hackers y cientificos son miembros
+  activos de esta comunidad
+- Se nuclea a través de la Python Software Foundation (hay dos miembros de PyAr)
+- Se organizan cerca de 200 conferencias anuales de Python en todo el mundo.
 
 
 ----
