@@ -4,8 +4,8 @@ PyQt
 .. image:: img/pyqt_logo.png
     :align: center
 
-- Es un binding a una librería grafica de de C++ (en realidad es mas que eso).
-- Podee un editor visual de formularios (QtDesigner)
+- Es un binding a una librería grafica hecha en C++ (en realidad es más que eso).
+- Posee un editor visual de formularios (QtDesigner)
 - Homepage: http://www.riverbankcomputing.co.uk/software/pyqt/intro
 
 
@@ -44,9 +44,9 @@ Pilas
     :align: center
     :scale: 150 %
 
-- Un motor de videojuegos 100% en español (en proceso de traducción)
-- Multiplataforma y ridiculamente-facil de aprender.
-- Desarrollado por un miembro de PyAr
+- Un motor de videojuegos 100% en español (en proceso de traducción a otros lenguajes)
+- Multiplataforma y ridiculamente-fácil de aprender.
+- Desarrollado por un miembro de PyAr (Hugo Ruscitti)
 - Embebible en widgets PyQt
 - Homepage: http://www.pilas-engine.com.ar/
 
@@ -93,8 +93,8 @@ Beautiful Soup
     :align: center
     :scale: 100 %
 
-- Es un parser HTML/XML laxo.
-- Permite buscar de una manera **muy**, realmente **muy** flexible en codigo
+- Es un parser HTML/XML laxo (¡funciona bien con código HTML/XML mal formado!).
+- Permite buscar de una manera **muy**, realmente **muy** flexible en cádigo
   XML-like.
 - Es raro.
 - Hace cosas raras.
