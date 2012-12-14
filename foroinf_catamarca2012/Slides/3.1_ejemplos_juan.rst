@@ -94,7 +94,7 @@ Beautiful Soup
     :scale: 100 %
 
 - Es un parser HTML/XML laxo (¡funciona bien con código HTML/XML mal formado!).
-- Permite buscar de una manera **muy**, realmente **muy** flexible en cádigo
+- Permite buscar de una manera **muy**, realmente **muy** flexible en código
   XML-like.
 - Es raro.
 - Hace cosas raras.
