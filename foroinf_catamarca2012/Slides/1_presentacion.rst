@@ -2,6 +2,7 @@
 Python en el mundo real
 =======================
 
+
 ----
 
 Los disertantes
@@ -14,7 +15,7 @@ Juan B Cabral
 - Organizador de la última PyCon Argentina, de un PyDay y un Django Day.
 - Trabaja en Liricus.
 
-Matias Herranz
+Matías Herranz
 
 - Lic. en Ciencias de la Computación.
 - FAMaF - UNC

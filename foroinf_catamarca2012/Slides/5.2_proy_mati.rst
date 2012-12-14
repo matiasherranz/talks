@@ -17,8 +17,8 @@ Ninja-IDE: screenshots
 
 .. image:: img/ScreenShot-ninja-1.png
     :align: center
-    :width: 766px
-    :height: 448px
+    :width: 957px
+    :height: 560px
 
 ----
 
@@ -27,8 +27,8 @@ Ninja-IDE: screenshots
 
 .. image:: img/ScreenShot-ninja-2.png
     :align: center
-    :width: 766px
-    :height: 448px
+    :width: 957px
+    :height: 560px
 
 ----
 
