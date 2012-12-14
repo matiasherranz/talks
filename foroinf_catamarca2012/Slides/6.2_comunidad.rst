@@ -23,50 +23,56 @@ Comunidad Internacional
 
 .. image:: img/pyconlogo.png
     :align: center
+    :width: 480px
+    :height: 270px
 
 - Mayor conferencia de python a nivel mundial.
 - 5 mil asistentes.
 - 15 dias (03/2013 es la siguiente en santa clara)
 
----
+----
 
 Muchas conferencias
 -------------------
 
-- "PyCon" in the United States
-- "EuroPython" in Europe
-- "EuroSciPy" in Europe
-- "Kiwi PyCon" in New Zealand
-- "PyCon Asia Pacific" in Singapore
-- "PyCon AR" in Argentina
-- "PyCon AU" in Australia
-- "PythonBrasil" in Brazil
-- "PyCon Canada" in Canada
-- "PyCon China" in China
-- "PyCon DE" in Germany
-- "PyCon ES" in Spain
-- "PyCon Finland" in Finland
-- "PyCon FR" in France
-- "PyCon India"
-- "PyCon Ireland"
-- "PyCon Italia" in Italy
-- "PyCon Japan"
-- "PyCon Philippines" in the Philippines
-- "PyCon PL" in Poland
-- "PyCon Russia" in Russia
-- "PyCon Taiwan" in Taiwan
-- "PyCon UK" in the United Kingdom
-- "PyCon Ukraine" in Ukraine
-- "PyCon Uruguay" in Uruguay
-- "PyCon Venezuela" in Venezuela
-- "PyCon ZA" in South Africa
-- "SciPy" in the United States
-- "SciPy.in" in India
+::
+
+    - "PyCon" in the United States
+    - "EuroPython" in Europe
+    - "EuroSciPy" in Europe
+    - "Kiwi PyCon" in New Zealand
+    - "PyCon Asia Pacific" in Singapore
+    - "PyCon AR" in Argentina
+    - "PyCon AU" in Australia
+    - "PythonBrasil" in Brazil
+    - "PyCon Canada" in Canada
+    - "PyCon China" in China
+    - "PyCon DE" in Germany
+    - "PyCon ES" in Spain
+    - "PyCon Finland" in Finland
+    - "PyCon FR" in France
+    - "PyCon India"
+    - "PyCon Ireland"
+    - "PyCon Italia" in Italy
+    - "PyCon Japan"
+    - "PyCon Philippines" in the Philippines
+    - "PyCon PL" in Poland
+    - "PyCon Russia" in Russia
+    - "PyCon Taiwan" in Taiwan
+    - "PyCon UK" in the United Kingdom
+    - "PyCon Ukraine" in Ukraine
+    - "PyCon Uruguay" in Uruguay
+    - "PyCon Venezuela" in Venezuela
+    - "PyCon ZA" in South Africa
+    - "SciPy" in the United States
+    - "SciPy.in" in India
 
 ----
 
 .. image:: img/pyar.png
     :align: center
+    :width: 678px
+    :height: 275px
 
 - Una lista de correo con cerca de 400 personas activas.
 - Alto nivel técnico.
@@ -102,6 +108,8 @@ Eventos 2012
 
 .. image:: img/logopycon.png
     :align: center
+    :width: 483px
+    :height: 289px
 
 - 403 asistentes.
 - 9 sprints.
@@ -110,7 +118,13 @@ Eventos 2012
 - 51 charlas programadas.
 - 9 invitados internacionales.
 
----
+----
 
-.. image:: pyconarfinal.JPG
+
+
+.. figure:: img/pyconarfinal.JPG
     :align: center
+    :width: 960px
+    :height: 539px
+    
+    Foto final PyConAr 2012
