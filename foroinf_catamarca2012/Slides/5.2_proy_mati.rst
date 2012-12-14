@@ -17,6 +17,8 @@ Ninja-IDE: screenshots
 
 .. image:: img/ScreenShot-ninja-1.png
     :align: center
+    :width: 766px
+    :height: 448px
 
 ----
 
@@ -25,13 +27,15 @@ Ninja-IDE: screenshots
 
 .. image:: img/ScreenShot-ninja-2.png
     :align: center
+    :width: 766px
+    :height: 448px
 
 ----
 
 Quepy
 -----
 
-.. image:: img/logo-machinslis.png
+.. image:: img/logo-machinalis.png
     :align: center
 
 - (El logo de Quepy está en camino!)
@@ -39,6 +43,15 @@ Quepy
 - Quepy es un framework para transformar preguntas en lenguaje natural a consultas en un lenguaje de base de datos
 - Idea: con poco codigo podrías construir tu propio acceso a tu base de datos mediante lenguaje natural.
 - Quepy provee soporte para el lenguaje de consultas sparql, pero puede ser extendido a otros lenguajes de consulta.
+
+----
+
+Quepy: Links!
+-------------
+
+.. image:: img/logo-machinalis.png
+    :align: center
+
 - https://github.com/machinalis/quepy
 - http://quepy.readthedocs.org/
 - http://pypi.python.org/pypi/quepy/
@@ -53,7 +66,9 @@ Quepy
 
 .. image:: img/ScreenShot-Quepy-1.png
     :align: center
-
+    :width: 766px
+    :height: 448px
+    
 ----
 
 Quepy: pregunta
@@ -61,7 +76,9 @@ Quepy: pregunta
 
 .. image:: img/ScreenShot-Quepy-2.png
     :align: center
-
+    :width: 893px
+    :height: 522px
+    
 ----
 
 Quepy: respuesta!
@@ -69,3 +86,5 @@ Quepy: respuesta!
 
 .. image:: img/ScreenShot-Quepy-3.png
     :align: center
+    :width: 893px
+    :height: 522px

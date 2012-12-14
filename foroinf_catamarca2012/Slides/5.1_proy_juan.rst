@@ -18,7 +18,8 @@ Yatel
 
 .. image:: img/yatel_ss.png
     :align: center
-    :scale: 75 %
+    :width: 784px
+    :height: 482px
 
 
 ----
@@ -42,5 +43,6 @@ SocialOne
 
 .. image:: img/socialone_ss.png
     :align: center
-    :scale: 60 %
+    :width: 819px
+    :height: 444px
 
