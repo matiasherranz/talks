@@ -1,4 +1,4 @@
-talks
-=====
+Repository for my talks
+=======================
 
-talks
+Here I'll upload the materials of my talks at PyDay, PyCon, DjangoDay, etc.
