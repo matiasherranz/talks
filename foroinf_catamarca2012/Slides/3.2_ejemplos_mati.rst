@@ -142,30 +142,31 @@ numpy / scipy (Ejemplo)
 
 .. code-block:: python
 
-def isodata_classification(img, parameters=None):
-    global K, I, P, THETA_M, THETA_S, THEHTA_C, THETA_O, k
-    initialize_parameters(parameters)
-    N, M = img.shape  # for reshaping at the end
-    img_flat = img.flatten()
-    clusters_list = np.arange(k)  # number of clusters availables
-    centers = initial_clusters(img_flat, k, "linspace")
-    for iter in xrange(0, I):
-        last_centers = centers.copy()
-        img_class_flat, dists = vq.vq(img_flat, centers)
-        centers, clusters_list = discard_clusters(img_class_flat,
-                                                  centers, clusters_list)
-        centers, clusters_list = update_clusters(img_flat, img_class_flat,
-                                                 centers, clusters_list)
-        k = centers.size
-        if k <= (K / 2.0):  # too few clusters => split clusters
-            centers, clusters_list = split_clusters(img_flat, img_class_flat,
-                                                    centers, clusters_list)
-        elif k > (K * 2.0):  # too many clusters => merge clusters
-            centers, clusters_list = merge_clusters(img_class_flat, centers,
-                                                    clusters_list)
-        else:  # nor split or merge are needed
-            pass
-        k = centers.size
+    def isodata_classification(img, parameters=None):
+        global K, I, P, THETA_M, THETA_S, THETA_C, THETA_O, k
+        initialize_parameters(parameters)
+        N, M = img.shape  # for reshaping at the end
+        img_flat = img.flatten()
+        clusters_list = np.arange(k)  # number of clusters availables
+
+        centers = initial_clusters(img_flat, k, "linspace")
+        for iter in xrange(0, I):
+            last_centers = centers.copy()
+            img_class_flat, dists = vq.vq(img_flat, centers)
+            centers, clusters_list = discard_clusters(
+                                img_class_flat, centers, clusters_list)
+            centers, clusters_list = update_clusters(img_flat,
+                                img_class_flat, centers, clusters_list)
+            k = centers.size
+            if k <= (K / 2.0):  # too few clusters => split clusters
+                centers, clusters_list = split_clusters(img_flat,
+                                img_class_flat, centers, clusters_list)
+            elif k > (K * 2.0):  # too many clusters => merge clusters
+                centers, clusters_list = merge_clusters(img_class_flat,
+                                    centers, clusters_list)
+            else:  # nor split or merge are needed
+                pass
+            k = centers.size
 
 
 ----
