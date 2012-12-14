@@ -13,7 +13,7 @@ En los siguientes slides se verá:
 Comunidad Internacional
 -----------------------
 
-- Dada la expresividad del lenguaje, muchos hackers y cientificos son miembros
+- Dada la expresividad del lenguaje, muchos hackers y científicos son miembros
   activos de esta comunidad
 - Se nuclea a través de la Python Software Foundation (hay dos miembros de PyAr)
 - Se organizan cerca de 200 conferencias anuales de Python en todo el mundo.
@@ -28,7 +28,7 @@ Comunidad Internacional
 
 - Mayor conferencia de python a nivel mundial.
 - 5 mil asistentes.
-- 15 dias (03/2013 es la siguiente en santa clara)
+- 15 días (03/2013 es la siguiente en Santa Clara)
 
 ----
 
@@ -37,7 +37,7 @@ Muchas conferencias
 
 ::
 
-    - "PyCon" in the United States
+    - "PyCon" in United States
     - "EuroPython" in Europe
     - "EuroSciPy" in Europe
     - "Kiwi PyCon" in New Zealand
@@ -97,7 +97,7 @@ Eventos 2011
 Eventos 2012
 ------------
 
-- PyDay Junin 2012 (~50 asistentes)
+- PyDay Junín 2012 (~50 asistentes)
 - PyDay Córdoba 2012 (~100 asistentes)
 - PyDay Rafaela 2012 (~30 asistentes (se llovio todo))
 - Pycon 2012 (403 asistentes)
