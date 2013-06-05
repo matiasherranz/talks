@@ -201,7 +201,7 @@ Beautiful Soup (Ejemplo, HTML)
         <title>titulo</title>
     </head>
     <body>
-        <p>este es un codigo feo<b>
+        <p>este es un codigo mal formado!<b>
         <a href="http://google.com">to google</a>
         <a href="http://www.google.com" id="unico">to google</a>
         <a href="http://yahoo.com">to yahoo</a>
@@ -305,3 +305,35 @@ Quepy: Links!
 
 - http://quepy.readthedocs.org/
 - http://pypi.python.org/pypi/quepy/
+
+
+----
+
+Plumíferos
+----------
+
+.. image:: img/Plumíferos.png
+    :align: center
+    :width: 812px
+    :height: 534px
+
+----
+
+Plumíferos
+----------
+
+.. image:: img/plumiferos2.png
+    :align: center
+
+- Proyecto argentino!
+- Plumíferos está hecho usando Blender
+- Blender está hecho en Python
+- Participó del Google Summer of Code desde 2005 a 2011.
+- ¡Video!
+
+Sitios:
+=======
+
+- http://www.blender.org/
+- http://www.plumiferos.com
+
